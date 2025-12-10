@@ -1,1 +1,4 @@
 # cs210project
+
+    This is my project for CS210 Data Structures. Here I will implement all the Abstract Data Types that we have learned in
+    the class throughout the semester that includes Stacks/Queues, Lists, HashMaps, Graphs, and Trees. For my project, I am building a Navigation WebApp that searches for the shortest routes possible for the user. I will use a stack for a backtracking feature to be able to find the shortest routes possible, Lists to store all the locations and points of interest, use a queue for a Breadth-First Search of the shortest path available, Hash Tables for instant look up of cities by name, Tries for an autocomplete feature of searching for locations, and Graphs as the main component to include nodes for locations, edges as roads, and weights for the distance.
